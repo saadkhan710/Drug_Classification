@@ -82,7 +82,7 @@ This project applies supervised machine learning techniques to classify drug typ
   ````
  3. Run the notebook:
     
-    Open drug_classification_project.ipynb in Jupyter Notebook or VS Code.
+    Open Drug_ML.ipynb in Jupyter Notebook or VS Code.
 
  4. Load the final model (optional):
 
